@@ -1,6 +1,6 @@
 # CI/CD 
 
-This is a project that seeks to provide a continuos integration and deployment solution for a full-stack web application, as well as a AWS architecture defined in terraform
+This is a project that seeks to provide a continuos integration and deployment solution for a full-stack web application, as well as a AWS architecture defined in terraform.
 
 
 ## LendARead's Goal
